@@ -1,7 +1,7 @@
 {
   "name": "minecraft-timings",
   "version": "1.0.0",
-  "description": "Aikar's Minecraft Timings Viewer",
+  "description": "MangoPlex's Minecraft Timings Viewer",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
